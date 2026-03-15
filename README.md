@@ -2,7 +2,9 @@
 
 A custom height-mapped raycasting engine and dungeon crawler game for the TI-89 graphing calculator, built on top of the 2002 FAT Engine. Renders textured walls, stair geometry, billboard enemy sprites, and procedurally generated dungeons on a 10MHz Motorola 68000 with a 160x100 4-shade grayscale LCD.
 
-<video src="https://github.com/dzoba/ti-89-raycasting-with-z/raw/main/ti-89-dungeon-with-stairs.mp4" controls width="400"></video>
+![Descend running on TI-89](demo.gif)
+
+[Full video (57s)](ti-89-dungeon-with-stairs.mp4)
 
 ## What's here
 
